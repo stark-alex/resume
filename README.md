@@ -2,6 +2,14 @@
 
 markdown based resume.
 
-## How to generate
+## Generate
 
-https://github.com/there4/markdown-resume#installation
+`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume pdf /resume/example.md /resume`
+
+### See avaliable themes
+
+`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume templates`
+
+### Generate w/ Theme
+
+`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume pdf /resume/example.md /resume -t roboto`

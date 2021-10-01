@@ -1,0 +1,5 @@
+# macos Stuff
+.DS_Store
+
+# Generated Resumes
+*.pdf
