@@ -1,94 +1,80 @@
 # Alex Stark
 
-* [stark.1380@gmail.com](mailto:stark.1380@gmail.com.com)  
-* 479.264.6990
-* 825 W. 71st Ter. Kansas City, MO 64114
+| [alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
+[linkedin.com/in/alex-stark-kc](https://www.linkedin.com/in/alex-stark-kc/) |
+479.264.6990 | 
+Kansas City, MO |
 
 ------
 
-### Profile {#profile}
-
-Software Architect with 15 years of Platform and DevOps Engineering experience with a passion for building highly scalable and maintainable systems the maximize developer productivity. 
+Accomplished Software Engineering leader with passion and experience to drive positive outcomes. Strategic professional with demonstrated experience setting technical vision and using good communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements. 
 
 -------
 
-### Skills {#skills}
+## Experience {#experience}
 
-* __Languages:__ C++, Java, C,  Python, C#, UNIX Shell,  SQL
+### Cerner Corporation - Kansas City, MO
+: *May 2006 - Present*
+
+Led multiple teams of engineers in technical, direct engineering management, and product management roles.  These teams are responsible for the core platform upon which Cerner Millennium’s services and user applications are built.  Cerner Millennium is used by 500+ Medical Facilities and consists of 1000+ services and 70+ user facing applications.
+
+__Lead Platform Management Engineer__
+: *May 2019 - Present*
+
+Product Management responsibilities for the service platform and messaging products leveraged by Millennium EMR product teams.
+
+* Set vision and created plan for implementing the future of Millennium's messaging platform to introduce event driven patterns into Millennium
+* Designed queuing system deployment changes to drive down licence costs by $1M+ per year
+* Served as technical lead in company-wide 3rd party technology road-mapping to ensure Cerner is consolidating it's platforms to a consistent, up to date, and supported layered technology stack
+* Collaborated with development and operations consumers and business stakeholders to ensure correct prioritization and sequencing of feature delivery
+
+__Associate Principal Software Engineer__
+: *Nov 2011 - May 2019*
+
+Served as technical lead for 100+ engineer organization.  Prototyped future features while driving implementation of in progress projects.
+
+* Selected to provide guidance and technical feasibility analysis for running Cerner's Millennium EMR in multiple public clouds
+  * Embraced IaaS/IaC concepts in a true DevOps environment to ensure timelines were met
+* Prototyped incorporating event driven design features into the existing Millennium Services platform
+* Proved feasibility for containerization of legacy services for deployment on Kubernetes based central deployment platform
+* Retooled company-wide C/C++ development system enabling modern continuous integration processes
+* Piloted process and created tooling for 64-bit port of Millennium's C/C++ codebase to enable efficient updates with minimal risk to code quality
+
+<div style="page-break-after: always;"></div>
+
+__Lead Architect Manager__
+: *Sept 2009 - Nov 2011*
+
+Held direct management and technical leadership position for 2 agile teams responsible for Millennium's RPC service platform. 
+
+* Coordinated port of Millennium server tier from Unix-based OSes to Linux enabling use of commodity hardware saving hosting business $100M+ over the successive 10 years
+* Implemented development process improvements to increase developer productivity resulting in a run-rate defect backlog allowing the teams to focus on enhancing the architecture and providing value to the business
+* Updated service lifecycle management system to eliminate 10s of 1000s of lines of legacy code no longer in use without introducing any critical defects
+* Worked directly with the product support and clients to ensure prompt issue resolution with an emphasis on strong troubleshooting skills, system performance, scalability, and root cause analysis to mitigate the risk of future incidents
+
+__Software Engineer__
+: *May 2006 - Sept 2009*
+
+Implemented code changes ranging from minor defect fixes to broad architecture changes requiring iterative planning.
+
+* Chosen to be service platform representing to company-wide VC++6 to VC++10 and VB to C# tech uplifts
+* Developed expertise in date/time logic providing production support over DST events and drove design to eliminate need for Fall DST downtime of the Millennium EMR
+
+-------
+
+## Skills {#skills}
+
+* __Cloud Platforms:__ AWS, GCP, OpenStack
 * __Continuous Integration:__ Jenkins, Gradle, Maven
 * __Continuous Delivery/Deployment:__ Docker, Kubernetes
 * __IaaS:__ Packer, Terraform
-* __Cloud Platforms:__ AWS, GCP, OpenStack
+* __Languages:__ C++, Java, C,  Python, C#, UNIX Shell,  SQL
 * __Development Processes:__ Agile, Lean, Scrum, Kanban
+* __Communication:__ Tech Talks, Blogging, Training
 
-------
+-----
 
-### Experience {#experience}
-
-Cerner Corporation, Kansas City, MO
-: *Lead Platform Management Engineer*
-  __May 2016 - Present__
-: *Associate Principal Engineer*
-  __Nov 2011 - May 2015__
-: *Software Engineering Manager*
-  __Sept 2009 - Nov 2011__
-: *Software Engineer/Architect*
-  __May 2006 - Sept 2009__
-
-Lead multiple teams of engineers in technical leadership, direct engineering management, and product management roles.  These teams were responsible for the core platform upon which Cerner Millennium’s services and user applications are built.  Cerner Millennium is used by 500+ Medical Facilities and consists of 1000+ services and 70+ user facing applications.
-
-* Plan, design, and drive the future direction of the architecture.
-* Code changes ranging from minor defect fixes to broad architecture changes requiring iterative planning.  While ensuring delivery of iterative value.
-* Design development process to increase developer productivity resulting in a run-rate defect backlog while continuing to meet the compliance.  Allowing the team to focus on enhancing the architecture and providing value to the business.
-* Coordinated the other development teams to ensure the platform is implementing the correct features to meet our consumers' needs.
-* Working directly with the support organization and clients ensuring prompt issue resolution with an emphasis on strong troubleshooting skills, system performance, and scalability.
-* Drive best practices across a 1,000+ engineer development org.
-
-------
-
-### Highlights {#highlights}
-
-#### Consolidated Service Platform
-
-Set vision and defined the plan for consolidating the varied service platform implementations Millennium accumulated over the last 20+ years in both Product Management and Architect roles.  This is a multi-year and multi-team effort.  One key to the plan's success has been to ensure value is delivered as progress towards the final goal state is made.  Allowing for that goal state to change as knowledge, experience and technology change over time.
-
-* Created iterative and agile plan to converge the Millennium service platform implementations to build a streamlined simplified system while providing value to our clients and internal consumers iteratively.
-* Consolidate the six Millennium Service deployment patterns to two (Centrally Deployed and Package Delivered) to reduce the complexity exposed to operations and service developers.
-* Ensure platform supports central deployment for all service types if/when the business needs arise.
-* Abstracted numerous developer tools and processes for defining and deploying services to a single process.  Maximizing efficiency of service developers and minimizing time to onboard new engineers.
-* Drove consolidation of how various services API types are called from the many consumer workload deployments and languages.
-
-The following are examples of iterative value provided as part of this effort:
-
-* Delivered enhancements to the way the underlying queuing system is deployed to reduce licence cost by $1M+ year once rolled out, while also adding resiliency to the overall system.
-* Completely modernized the native service development continuous integration system.
-* Designed updated Java service assembly processes to minimize impact of platform update adoption to service owner teams.
-  
-#### Event Driven Architecture Platform
-
-Since it's inception Millennium was built on a service oriented architecture.  As more complex workflows were discovered it became apparent incorporating Event Driven patterns is vital to enable developers to implement those  workflows efficiently.
-
-* Responsible for building out the product vision and architectural design to introduce an event backbone into the existing system.
-* Evaluated technologies for fit as well as coordinating with dozens of Millennium teams to ensure the design meets their use cases.
-* Designed patterns for reliably delivered events from the existing RDBMS based system into Apache Kafka while avoiding 2-phase commit concerns.
-* Planned implementation plan weighing the vast use cases possibilities based on MVP and short-term needs.
-
-#### Package to Cloud Migration
-
-One of 4 company-wide architects selected to provide guidance and technical feasibility analysis for running Cerner's Millennium EMR in multiple public clouds. Embraced IaaS/IaC concepts in a true DevOps environment to ensure timelines were met. Explored further options such as alternate deployments of the technology stack and assessment of cloud services for replacing expensive enterprise technologies (e.g. IBM MQ)
-
-#### Continuous Integration C++ Services
-
-Replaced existing proprietary make-based build system with Gradle adding integrated automated testing. Enabling developers across Cerner to produce higher quality code more quickly.  Leveraged Docker and Kubernetes to replace existing package delivered deployments.  Aligning with Cerner's more modern web services reducing the time to deliver fixes and enhancements to our clients.
-
-#### Technology Modernization Projects
-
-Held leadership positions in several company wide technology updates. These projects reduced total cost of ownership of Millennium while modernizing the code base and reducing technical debt.  Designed uplift processes to produce the desired outcome with minimal dev effort ensuring these broad and in some cases automated changes were deployed to client environments with minimal risk.  
-__Projects:__ 64-bit port of code base, Linux port of UNIX code base, VC++6 to VC++ 10 Migration, Visual Basic to C# Migration.
-
-------
-
-### Education {#education}
+## Education {#education}
 
 Missouri University of Science and Technology -- Rolla, MO 
 : *B.S. Computer Science (honors)*
@@ -96,8 +82,12 @@ Missouri University of Science and Technology -- Rolla, MO
 
 ------
 
-### Footer {#footer}
+## Footer {#footer}
 
-Alex Stark -- [stark.1380@gmail.com](mailto:stark.1380@gmail.com) -- (479) 264-6990
+| Alex Stark |
+[alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
+[linkedin.com/in/alex-stark-kc](https://www.linkedin.com/in/alex-stark-kc/) |
+479.264.6990 | 
+Kansas City, MO |
 
 ------

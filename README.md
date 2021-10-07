@@ -6,7 +6,7 @@ markdown based resume.
 
 `docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume pdf /resume/example.md /resume`
 
-### See avaliable themes
+### See available themes
 
 `docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume templates`
 
