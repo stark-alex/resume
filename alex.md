@@ -15,18 +15,19 @@ Accomplished Software Engineering leader with passion and experience to drive po
 
 ## Experience {#experience}
 
-### Cerner Corporation (Kansas City, MO)
+### Cerner Corporation - Kansas City, MO
+: *May 2006 - Present*
 
 Led multiple teams of engineers in technical, direct engineering management, and product management roles.  These teams are responsible for the core platform upon which Cerner Millennium’s services and user applications are built.  Cerner Millennium is used by 500+ Medical Facilities and consists of 1000+ services and 70+ user facing applications.
 
 __Lead Platform Management Engineer__
 : *May 2019 - Present*
 
-Product Management responsibilities for the service platform leveraged by Millennium EMR product teams.  These products provide development teams with features to enable efficient creation of services from development to deployment as well as the underlying messaging frameworks used to facilitate varied messaging patterns.
+Product Management responsibilities for the service platform and messaging products leveraged by Millennium EMR product teams.
 
-* Set vision and created plan for implementing the future of Millennium's messaging platform with the goal of evolving the existing command/query service platform into an event driven architecture
+* Set vision and created plan for implementing the future of Millennium's messaging platform to introduce event driven patterns into Millennium
 * Designed queuing system deployment changes to drive down licence costs by $1M+ per year
-* Served as technical lead in Cerner wide 3rd party technology (e.g. OS, Compilers, Queueing, Database, etc.) on-going road-mapping to ensure Cerner is consolidating it's platforms to a consistent, up to date, and supported layered technology stack
+* Served as technical lead in company-wide 3rd party technology road-mapping to ensure Cerner is consolidating it's platforms to a consistent, up to date, and supported layered technology stack
 * Collaborated with development and operations consumers and business stakeholders to ensure correct prioritization and sequencing of feature delivery
 
 __Associate Principal Software Engineer__
@@ -36,7 +37,7 @@ Served as technical lead for 100+ engineer organization.  Prototyped future feat
 
 * Selected to provide guidance and technical feasibility analysis for running Cerner's Millennium EMR in multiple public clouds
   * Embraced IaaS/IaC concepts in a true DevOps environment to ensure timelines were met
-* Prototyped migration of Millennium Services platform to industry standard messaging patterns to enable event driven workflows
+* Prototyped incorporating event driven design features into the existing Millennium Services platform
 * Proved feasibility for containerization of legacy services for deployment on Kubernetes based central deployment platform
 * Retooled company-wide C/C++ development system enabling modern continuous integration processes
 * Piloted process and created tooling for 64-bit port of Millennium's C/C++ codebase to enable efficient updates with minimal risk to code quality
@@ -48,10 +49,10 @@ __Lead Architect Manager__
 
 Held direct management and technical leadership position for 2 agile teams responsible for Millennium's RPC service platform. 
 
-* Coordinated port of Millennium server tier from Unix-based OSes to Linux enabling use of commodity hardware saving hosting business $100M+ over the following 10 year period
+* Coordinated port of Millennium server tier from Unix-based OSes to Linux enabling use of commodity hardware saving hosting business $100M+ over the successive 10 years
 * Implemented development process improvements to increase developer productivity resulting in a run-rate defect backlog allowing the teams to focus on enhancing the architecture and providing value to the business
-* Worked directly with the support organization and clients ensuring prompt issue resolution with an emphasis on strong troubleshooting skills, system performance, scalability, and root cause analysis to mitigate the risk of future incidents
-* Collaborated with consumer development teams to ensure the platform is implementing the correct features to meet their needs
+* Updated service lifecycle management system to eliminate 10s of 1000s of lines of legacy code no longer in use without introducing any critical defects
+* Worked directly with the product support and clients to ensure prompt issue resolution with an emphasis on strong troubleshooting skills, system performance, scalability, and root cause analysis to mitigate the risk of future incidents
 
 __Software Engineer__
 : *May 2006 - Sept 2009*
@@ -85,6 +86,10 @@ Missouri University of Science and Technology -- Rolla, MO
 
 ## Footer {#footer}
 
-Alex Stark -- [alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) -- 479.264.6990
+| Alex Stark |
+[alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
+[linkedin.com/in/alex-stark-kc/](https://www.linkedin.com/in/alex-stark-kc/) |
+479.264.6990 | 
+Kansas City, MO |
 
 ------
