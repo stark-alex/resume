@@ -1,7 +1,7 @@
 # Alex Stark
 
 | [alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
-[linkedin.com/in/alex-stark-kc/](https://www.linkedin.com/in/alex-stark-kc/) |
+[linkedin.com/in/alex-stark-kc](https://www.linkedin.com/in/alex-stark-kc/) |
 479.264.6990 | 
 Kansas City, MO |
 
@@ -88,7 +88,7 @@ Missouri University of Science and Technology -- Rolla, MO
 
 | Alex Stark |
 [alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
-[linkedin.com/in/alex-stark-kc/](https://www.linkedin.com/in/alex-stark-kc/) |
+[linkedin.com/in/alex-stark-kc](https://www.linkedin.com/in/alex-stark-kc/) |
 479.264.6990 | 
 Kansas City, MO |
 
