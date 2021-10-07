@@ -7,8 +7,6 @@ Kansas City, MO |
 
 ------
 
-## Profile {#profile}
-
 Accomplished Software Engineering leader with passion and experience to drive positive outcomes. Strategic professional with demonstrated experience setting technical vision and using good communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements. 
 
 -------
