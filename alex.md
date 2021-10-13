@@ -7,7 +7,7 @@ Kansas City, MO |
 
 ------
 
-Accomplished Software Engineering leader with passion and experience to drive positive outcomes. Strategic professional with demonstrated experience setting technical vision and using good communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements. 
+Distinguished Software Engineering leader with passion and experience to deliver positive outcomes. Strategic professional with demonstrated experience setting technical vision and using effective communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements. 
 
 -------
 
@@ -46,9 +46,9 @@ __Lead Platform Management Engineer__
 
 Product Management responsibilities for the service platform and messaging products leveraged by product teams.
 
-* Set vision for the future of the messaging platform.  Created plan to introduce event driven patterns into the existing system.
 * Designed queuing system deployment changes to drive down licence costs by $1M+ per year.
-* Contributed technical guidance to company-wide 3rd party technology road-mapping process.  Ensured consolidation of layered technologies to a consistent, up to date, and supported stack.
+* Set vision for the future of the messaging platform.  Created plan to introduce event driven patterns into the existing system.
+* Provided technical guidance to company-wide 3rd party technology road-mapping process.  Ensured consolidation of layered technologies to a consistent, up to date, and supported stack.
 * Collaborated with development and operations consumers and business stakeholders to ensure correct prioritization and sequencing of feature delivery.
 
 
@@ -74,8 +74,6 @@ Held direct management and technical leadership position for 2 agile teams respo
 * Implemented development process improvements to increase developer productivity resulting in a run-rate defect backlog. Allowing the teams to focus on enhancing the architecture and providing value to the business with no additional resources.
 * Updated service lifecycle management system to eliminate 10s of 1000s of lines of legacy code no longer in use without introducing any critical defects.
 * Worked directly with the production support and clients to ensure prompt issue resolution. Emphasized strong troubleshooting skills, system performance, scalability, and root cause analysis to mitigate the risk of future incidents.
-
-Enabled use of commodity hardware saving hosting business $100M+ over the successive 10 years by coordinating efforts to port service tier to run on Linux.
 
 __Software Engineer__
 : *May 2006 - Sept 2009*
