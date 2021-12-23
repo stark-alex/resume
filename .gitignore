@@ -3,3 +3,4 @@
 
 # Generated Resumes
 *.pdf
+!alex.pdf
