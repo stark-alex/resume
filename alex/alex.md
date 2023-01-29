@@ -11,47 +11,35 @@ Distinguished Software Engineering leader with passion and experience to deliver
 
 -------
 
-## Skills {#skills}
-
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><b>Cloud Platforms:</b> AWS, GCP, OpenStack</li>
-        <li><b>IaaS/IaC:</b> Packer, Terraform</li>
-        <li><b>Continuous Integration:</b> Jenkins, Gradle, Maven</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>Continuous Deployment:</b> Docker, Kubernetes</li>
-        <li><b>Languages:</b> C++, Java, C, Python, C#, Shell, SQL</li>
-        <li><b>SDLC:</b> Agile, Lean, Scrum, Kanban</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
--------
-
 ## Experience {#experience}
 
+### Rx Savings Solutions - Overland Park, KS
+
+__Principal Engineer - Architecture__
+: *Jan 2022 - Present*
+
+Leadership role in a newly organized architecture group tasked with driving consolidation of patterns, technologies and processes across the product development teams. Focused on delivering iterative value while establishing long-lived shared platforms leveraged to increase the velocity of the entire engineering organization.
+
+* Evaluated current engineering architecture and process to identify the areas most in need of improvement.
+* Drove the creation and prioritization of architectures road-map and OKRs.
+* Designed a shared service platform to enable the rapid development of services from ideation to long-term maintenance through well defined CI/CD process.
+* Modernized Development and QA environment management to be a self-service and API driven utilizing AWS several server-less services including API Gateway, Lambda, Step Functions, and DynamoDB.
+* Established best practices and patterns to be used for future Event-Driven workflows.
+
 ### Cerner Corporation - Kansas City, MO
-: *May 2006 - Present*
+: *May 2006 - Dec 2021*
 
 Led multiple teams of engineers in technical, direct engineering management, and product management roles. These teams are responsible for the core platform upon which Cerner Millennium's services and user applications are built. Cerner Millennium is an Electronic Health Record (EHR) used by 500+ Medical Facilities and consists of 1000+ services and 70+ user facing applications.
 
 __Lead Platform Management Engineer__
-: *May 2019 - Present*
+: *May 2019 - Dec 2021*
 
 Product Management responsibilities for the service platform and messaging products leveraged by product teams.
 
-* Designed queuing system deployment changes to drive down licence costs by $1M+ per year.
+* Designed queuing system deployment changes to drive down license costs by $1M+ per year.
 * Set vision for the future of the messaging platform.  Created plan to introduce event driven patterns into the existing system.
 * Provided technical guidance to company-wide 3rd party technology road-mapping process.  Ensured consolidation of layered technologies to a consistent, up to date, and supported stack.
 * Collaborated with development and operations consumers and business stakeholders to ensure correct prioritization and sequencing of feature delivery.
-
-
 
 __Associate Principal Software Engineer__
 : *Nov 2011 - May 2019*
@@ -83,6 +71,30 @@ Implemented code changes ranging from minor defect fixes to broad architecture c
 * Represented the service platform in company-wide VC++6 to VC++10 and VB to C# tech uplifts.
 * Provided production support for clients across the globe over DST events.  Drove the design and implementation of eliminating system downtime during Fall DST.
 
+-------
+
+## Skills {#skills}
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><b>Cloud Platforms:</b> AWS, GCP, OpenStack</li>
+        <li><b>IaaS/IaC:</b> Packer, Terraform</li>
+        <li><b>Continuous Integration:</b> Jenkins, Gradle, Maven</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><b>Continuous Deployment:</b> Docker, Kubernetes</li>
+        <li><b>Languages:</b> C++, Java, C, Python, C#, Shell, SQL</li>
+        <li><b>SDLC:</b> Agile, Lean, Scrum, Kanban</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 -----
 
 ## Education {#education}
@@ -90,15 +102,5 @@ Implemented code changes ranging from minor defect fixes to broad architecture c
 Missouri University of Science and Technology -- Rolla, MO 
 : *B.S. Computer Science (honors)*
   __2002-2006__
-
-------
-
-## Footer {#footer}
-
-| Alex Stark |
-[alex.stark.kc@gmail.com](mailto:alex.stark.kc@gmail.com.com) |
-[linkedin.com/in/alex-stark-kc](https://www.linkedin.com/in/alex-stark-kc/) |
-479.264.6990 | 
-Kansas City, MO |
 
 ------
