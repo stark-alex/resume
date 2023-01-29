@@ -1,0 +1,10 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.md$",
+                "cmd": "docker run --rm -v ${fileDirname}:/resume there4/markdown-resume md2resume pdf /resume/${fileBasename} /resume -t readable"
+            }
+        ]
+    }
+}
