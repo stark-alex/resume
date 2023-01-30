@@ -22,7 +22,7 @@ Leadership role in a newly organized architecture group tasked with driving cons
 
 * Evaluated current engineering architecture and process to identify the areas most in need of improvement.
 * Drove the creation and prioritization of architectures road-map and OKRs.
-* Modernized Development and QA environment management to be a self-service and API driven utilizing AWS several server-less services including API Gateway, Lambda, Step Functions, and DynamoDB.
+* Modernized Development and QA environment management to be a self-service and API driven utilizing AWS several serverless services including API Gateway, Lambda, Step Functions, and DynamoDB.
 * Designed a shared service platform that will enable the rapid development of services from ideation to long-term maintenance through well defined CI/CD process.
 * Established best practices and patterns to be used for future Event-Driven workflows.
 
