@@ -2,14 +2,12 @@
 
 markdown based resume.
 
-## Generate
+## How to use
 
-`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume pdf /resume/example.md /resume`
+### Pre-reqs
 
-### See available themes
+* docker
+* vscode with recommended plugins installed
 
-`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume templates`
-
-### Generate w/ Theme
-
-`docker run --rm -v ${PWD}:/resume there4/markdown-resume md2resume pdf /resume/example.md /resume -t roboto`
+0. Create new directory and copy/rename example.md
+0. Update resume md and pdf will be automatically generated on save
