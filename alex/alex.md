@@ -7,7 +7,7 @@ Kansas City, MO |
 
 ------
 
-Software Engineering leader with passion and experience to deliver positive outcomes. A strategic professional with demonstrated experience setting technical vision and using effective communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements. 
+Software Engineering leader with passion and experience to deliver positive outcomes. A strategic professional with demonstrated experience setting technical vision and using effective communication and a pragmatic DevOps-based mindset to achieve those goals in the real world. Adept at continuously improving software development team efficiency while delivering top-quality, scalable, maintainable, and secure software that meet consumer and business requirements.
 
 -------
 
@@ -21,7 +21,7 @@ __Principal Engineer - Platforms & Architecture__
 Leadership role in a newly organized architecture group tasked with driving consolidation of patterns, technologies and processes across the product development teams. Focused on delivering value iteratively while building long-lived platforms assets leveraged to increase the velocity of the entire engineering organization.
 
 * Ensured the teams efforts were maximally impactful by evaluating existing architecture and process to identify the areas most in need of improvement. Drove the creation and prioritization of architectures roadmap and OKRs.
-* Designed and Implemented Kubernetes and Terraform based deployment platform that enables the rapid development from ideation to long-term maintenance through well defined CI/CD process. Implemented 3 net new service deployments to production and migrated an existing service in the first month of availability. Targeting full migration inside a year.
+* Designed and Implemented Kubernetes and Terraform based deployment platform that enables the rapid development from ideation to long-term maintenance through well defined CI/CD process. Implemented 3 net new service deployments to production and migrated an existing service in the first month of availability. Full migration of all applications underway.
 * Modernized Development and QA environment management tooling to be a self-service and API driven. Allowing for the automation dev and test environment setup reducing toil and human error.
 * Established best practices and patterns to be used for future Event-Driven workflows.
 
